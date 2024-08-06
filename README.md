@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## About Me
+I'm a passionate full-stack developer that works mostly with the MERN stack. I love building impactful projects and collaborating with others to solve problems. I'm currently exploring new technologies and contributing to open-source projects.
+
+## Skills
+- **Languages:** JavaScript, Python, C#
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Tools:** Git, Docker, Jenkins
+
